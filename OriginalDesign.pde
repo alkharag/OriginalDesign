@@ -34,7 +34,7 @@ void ball()
 		xPosition = -170;
 	}
 	
-	redraw();
+	
 	
 
 }
