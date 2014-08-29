@@ -31,7 +31,7 @@ public void ball()
 {
 	background(50,50,90);
 
-	rect(0, 300, 500, 512);
+	rect(0, 300, 512, 300);
 	
 	//body
 	arc(xPosition-25, 300, 200, 75, PI, 2*PI);
